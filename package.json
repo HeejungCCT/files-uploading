@@ -1,0 +1,25 @@
+{
+  "name": "files-uploading",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeejungCCT/files-uploading.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HeejungCCT/files-uploading/issues"
+  },
+  "homepage": "https://github.com/HeejungCCT/files-uploading#readme",
+  "dependencies": {
+    "ejs": "^3.1.2",
+    "express": "^4.17.1",
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.3"
+  }
+}
